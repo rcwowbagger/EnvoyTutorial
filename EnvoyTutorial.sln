@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeApi", "CoffeeApi\CoffeeApi.csproj", "{3910D42B-15EA-44AD-BD78-F8DA713E4FFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeaApi", "TeaApi\TeaApi.csproj", "{1D524D6A-3F91-4E59-A9DB-CDBDC32F0C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3910D42B-15EA-44AD-BD78-F8DA713E4FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3910D42B-15EA-44AD-BD78-F8DA713E4FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3910D42B-15EA-44AD-BD78-F8DA713E4FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3910D42B-15EA-44AD-BD78-F8DA713E4FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D524D6A-3F91-4E59-A9DB-CDBDC32F0C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D524D6A-3F91-4E59-A9DB-CDBDC32F0C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D524D6A-3F91-4E59-A9DB-CDBDC32F0C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D524D6A-3F91-4E59-A9DB-CDBDC32F0C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E6F218F-0148-4E93-8FA5-3CFC5EA5DC91}
+	EndGlobalSection
+EndGlobal
