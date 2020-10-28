@@ -4,8 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <UserSecretsId>958a9e11-e639-42bd-af97-b1b2de19f0b5</UserSecretsId>
-    <DockerfileRunArguments>-v $Env:APPDATA\microsoft\UserSecrets\:/root/.microsoft/usersecrets -v $Env:USERPROFILE\.aspnet\https:/root/.aspnet/https/</DockerfileRunArguments>
-    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+    <DockerfileRunArguments></DockerfileRunArguments>
   </PropertyGroup>
 
   <ItemGroup>
